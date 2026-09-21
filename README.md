@@ -72,30 +72,30 @@ A full-stack real-time chat application built with Next.js, React, Node.js, Type
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 Technology Stack
 
-Frontend
-Next.js
-React
-TypeScript
-Socket.IO Client
-CSS
-Backend
-Node.js
-Express.js
-TypeScript
-Socket.IO
-JWT
-RabbitMQ
-Redis
-Nodemailer
-Database
-MongoDB
-MongoDB Atlas
-Cloud & DevOps
-AWS EC2
-Docker
-PM2
-Linux
-Git
+Frontend,
+Next.js,
+React,
+TypeScript,
+Socket.IO Client,
+CSS,
+Backend,
+Node.js,
+Express.js,
+TypeScript,
+Socket.IO,
+JWT,
+RabbitMQ,
+Redis,
+Nodemailer,
+Database,
+MongoDB,
+MongoDB Atlas,
+Cloud & DevOps,
+AWS EC2,
+Docker,
+PM2,
+Linux,
+Git,
 GitHub
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🔐 Authentication Flow
@@ -152,13 +152,13 @@ Account Verified
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 OTP Features
 
-OTP generation
-OTP email delivery
-OTP expires after 5 minutes
-OTP request rate limiting
-Asynchronous email processing
-RabbitMQ message queue
-Gmail SMTP
+OTP generation,
+OTP email delivery,
+OTP expires after 5 minutes,
+OTP request rate limiting,
+Asynchronous email processing,
+RabbitMQ message queue,
+Gmail SMTP,
 Nodemailer
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ⚡ Redis Rate Limiting
@@ -467,6 +467,7 @@ pm2 save
                               ▲
                               │
                          Backend Services
+                      
 
 The application is deployed on an AWS EC2 Ubuntu server.
 
@@ -589,7 +590,8 @@ Deployment Stack
                           │
                           ▼
                    Process Management
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🧠 Key Engineering Concepts
 
 This project demonstrates practical experience with:
