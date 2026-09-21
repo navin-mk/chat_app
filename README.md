@@ -647,6 +647,7 @@ Horizontal scaling
 Navin Mahendran
 
 GitHub: https://github.com/navin-mk
+Demo video: https://drive.google.com/file/d/1aUuGKOJPPClgF3sFexwkj7pCNNieKTOa/view?usp=drive_link
 
 📄 License
 
